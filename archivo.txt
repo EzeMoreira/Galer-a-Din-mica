@@ -1,0 +1,2 @@
+Este repositorio de carácter público es un ejercicio de práctica de una galería dinámica con Javascript, para introducir, img, videos, etc.
+Utilizar de manera libre.
